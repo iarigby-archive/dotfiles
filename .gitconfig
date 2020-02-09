@@ -1,0 +1,8 @@
+[user]
+	email = marvinzem@gmail.com
+	name = iarigby
+[pull]
+	rebase = true
+[core]
+	excludesfile = /home/ia/.gitignore_global
+

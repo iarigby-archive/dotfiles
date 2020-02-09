@@ -1,0 +1,2 @@
+#!/bin/sh
+SHELL_CONFIG=$HOME/.config/shell
