@@ -7,4 +7,6 @@ alias ssdate="date '+%Y-%m-%d_%H:%M:%S'"
 alias sdate="date '+%Y-%m-%d_%H:%M'"
 
 alias vim=nvim
+alias ws=webstorm
+alias sl=subl3
 

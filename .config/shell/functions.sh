@@ -19,8 +19,13 @@ function clone_my_repo() {
 	git clone git@github.com:iarigby/$1
 }
 
-function copy() {
-	xclip -sel clip
+function clip() {
+	xclip -sel clip < $1
 }
 
 alias gcm=clone_my_repo 
+
+function git() {   
+        [[ "$(pwd)" == "$HOME" ]] && yadm "$@" || /usr/bin/git "$@"
+}
+
