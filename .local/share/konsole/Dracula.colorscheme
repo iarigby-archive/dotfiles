@@ -1,5 +1,5 @@
 [Background]
-Color=14,15,20
+Color=22,22,26
 
 [BackgroundFaint]
 Color=40,42,54
@@ -92,5 +92,5 @@ Color=248,248,242
 Blur=true
 ColorRandomization=false
 Description=Dracula
-Opacity=0.76
+Opacity=0.81
 Wallpaper=
