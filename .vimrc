@@ -9,6 +9,14 @@ call plug#begin('~/.vim/plugged')
 " THEMES
 Plug 'flrnprz/candid.vim'
 
+
+Plug 'FZX/vim-plugin-gelayout'
+Plug 'junegunn/fzf.vim'
+Plug 'mhinz/vim-startify'
+
+
+
+
 call plug#end()
 " colorscheme candid
 
@@ -18,3 +26,4 @@ set t_Co=256
 set clipboard+=unnamedplus
 set mouse=a
 set guicursor=
+
