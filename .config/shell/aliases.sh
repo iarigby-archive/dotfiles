@@ -1,4 +1,4 @@
-alias ls="/bin/ls -a" #vax!
+alias ls="/bin/ls -a --color=auto" #vax!
 
 # legacy
 alias cp="cp -i"
