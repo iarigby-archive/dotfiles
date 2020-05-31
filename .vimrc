@@ -131,3 +131,5 @@ let g:highlightedyank_highlight_duration = 400
 
 " set fillchars=vert::
 " source $HOME/.config/nvim/statusline.vim
+
+nnoremap <leader>e :term sh %:p
