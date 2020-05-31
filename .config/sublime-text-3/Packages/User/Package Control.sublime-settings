@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"A File Icon",
+		"Git",
+		"Guna",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Material Theme",
+		"Package Control",
+		"Seti_UI",
+		"Seti_UX",
+		"Terminal",
+		"Theme - Spacefunk",
+		"TypeScript Syntax",
+		"url-utils"
+	],
+	"repositories":
+	[
+		"https://github.com/renerocksai/sublime_zk i"
+	]
+}
