@@ -1,14 +1,25 @@
 [Desktop Entry]
-DefaultProfile=Default.profile
+DefaultProfile=Profile 1.profile
 
 [Favorite Profiles]
-Favorites=
+Favorites=light.profile
 
 [KonsoleWindow]
 ShowMenuBarByDefault=false
 
 [MainWindow]
 Height 1080=600
+Height 1536=586
+Height 864=488
 MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAwAAAANCAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1920=900
+Width 1536=842
+Width 1920=906
+Width 864=864
+eDP1 Height 1536=1506
+eDP1 Height 864=517
+eDP1 Width 1536=908
+eDP1 Width 864=432
+eDP1 XPosition=420
+eDP1 YPosition=263

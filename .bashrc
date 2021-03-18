@@ -5,7 +5,6 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-
 if [ ! -z "$(command -v zsh)" ]
 then	
 	exec zsh

@@ -1,14 +1,15 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"color_scheme": "Packages/Guna/themes/Guna.sublime-color-scheme",
 	"font_face": "Noto",
-	"font_size": 10,
+	"font_size": 11,
 	"gn_hide_tab_dropdown": true,
 	"gn_overlay_scroll_bars": true,
-	"gn_sb_cnvx": true,
 	"gn_sidebar_box": true,
+	"gn_title_bar": true,
 	"gnwidg1": true,
+	"gnwidgo": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[

@@ -20,6 +20,10 @@
 "modi konsole Konsole" 
   Mod4+Super_L + space 
 
+
+"modi konsole Konsole" 
+  Mod4 + space
+
 "wmctrl -r :ACTIVE: -b toggle,maximized_vert,maximized_horz"
   Mod4 + Up
 #
