@@ -1,4 +1,4 @@
-export ZSH="/home/ia/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 ZSH_THEME="avit"
 
@@ -8,6 +8,7 @@ plugins=(git tmux yarn)
 source $HOME/.shell_config
 ZSH_CUSTOM=$SHELL_CONFIG/zsh/
 
+ZSH_DISABLE_COMPFIX=true
 
 source $ZSH/oh-my-zsh.sh
 
