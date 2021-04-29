@@ -4,8 +4,7 @@
 [pull]
 	rebase = true
 [core]
-	excludesfile = /home/ia/.gitignore_global
-
+	excludesfile = ~/.gitignore_global
 [filter "lfs"]
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process

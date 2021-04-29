@@ -1,4 +1,4 @@
-alias ls="/bin/ls -a --color=auto" #vax!
+alias ls="/bin/ls -a" #vax!
 
 # legacy
 alias cp="cp -i"
@@ -10,3 +10,4 @@ alias vim=nvim
 alias ws=webstorm
 alias sl=subl3
 alias o=xdg-open
+alias dt=~/dev/freeuni/subject-modules

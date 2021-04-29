@@ -23,5 +23,7 @@ function fh() {
  }
 
 zle -N fh
+bindkey -v
 bindkey '^R' fh
+bindkey '^[R' fh
 
