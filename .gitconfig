@@ -12,3 +12,5 @@
 	clean = git-lfs clean -- %f
 [alias]
 	amend = commit --amend -C HEAD
+[init]
+	defaultBranch = main

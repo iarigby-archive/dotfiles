@@ -11,3 +11,5 @@ alias ws=webstorm
 alias sl=subl3
 alias o=xdg-open
 alias dt=~/dev/freeuni/subject-modules
+
+
