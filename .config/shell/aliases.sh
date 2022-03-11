@@ -12,5 +12,5 @@ alias o=xdg-open
 alias dt=~/dev/freeuni/subject-modules
 fdt='freeuni-digital-technologies'
 twi='theworksinstitute'
-
+alias fd="fd -H"
 

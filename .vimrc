@@ -44,7 +44,7 @@ Plug 'dracula/vim'
 Plug 'drewtempelmeyer/palenight.vim'
 
 
-Plug 'Yggdroot/LeaderF', { 'do': './install.sh' }
+" Plug 'Yggdroot/LeaderF', { 'do': './install.sh' }
 " Plug 'itchyny/lightline.vim'
 
 " let g:airline_powerline_fonts = 1 

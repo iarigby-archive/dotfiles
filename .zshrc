@@ -1,9 +1,9 @@
 export ZSH="$HOME/.oh-my-zsh"
 
-ZSH_THEME="refined"
+# ZSH_THEME="refined"
 # ZSH_THEME="bureau"
 # ZSH_THEME="bureau"
-#ZSH_THEME="avit"
+ZSH_THEME="avit"
 
 # git clone https://github.com/jeffreytse/zsh-vi-mode \
 #  $HOME/.oh-my-zsh/custom/plugins/zsh-vi-mode
@@ -28,4 +28,7 @@ source $ZSH_CUSTOM/find_history.sh
 
 # ZVM_INSERT_MODE_CURSOR=$ZVM_CURSOR_BLINKING_UNDERLINE
 # ZVM_NORMAL_MODE_CURSOR=$ZVM_CURSOR_UNDERLINE
+
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
